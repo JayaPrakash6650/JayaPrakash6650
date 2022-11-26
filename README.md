@@ -1,0 +1,4 @@
+- 👋 Hi, I’m JayaPrakash, a self taught programmer from India.
+- 👀 I’m interested in Pythong programming with an emphasis in the data field.
+- 🌱 I’m currently learning tools in Data Engineering.
+- 📫 How to reach me -> LinkedIn - https://www.linkedin.com/in/jayaprakash-j-495285131/
