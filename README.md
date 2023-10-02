@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JayaPrakash, a self taught programmer from India.
-- 👀 I’m interested in Python programming with an emphasis in ERP customizations.
-- 🌱 I’m currently learning tools in web development.
+- 👋 Hi, I’m JayaPrakash, a self taught programmer from Chennai, India.
+- 👀 My work has me involved in backend web development with an emphasis in ERP customizations.
+- 🌱 I’m currently learning tools in web development, servers and database management.
 - 📫 How to reach me -> LinkedIn - https://www.linkedin.com/in/jayaprakash-j-495285131/
